@@ -1,0 +1,1 @@
+import{A as a}from"./AdminLayout.55d6d56f.js";import{o as e,c as t,w as o,a as r}from"./index.d84c8b7a.js";const n={__name:"DashboardView",setup(s){return(c,_)=>(e(),t(a,{defaultKey:"1"},{default:o(()=>[r(" Admin - Dashboard ")]),_:1}))}};export{n as default};
