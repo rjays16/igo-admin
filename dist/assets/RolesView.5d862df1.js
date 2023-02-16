@@ -1,0 +1,1 @@
+import{A as e}from"./AdminLayout.68397104.js";import{o as t,c as a,w as o,a as r}from"./index.a2dd1bc9.js";const m={__name:"RolesView",setup(s){return(c,n)=>(t(),a(e,{defaultKey:"10-2",preOpenKey:"10"},{default:o(()=>[r(" Admin - Roles ")]),_:1}))}};export{m as default};

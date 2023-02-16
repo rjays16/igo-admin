@@ -1,0 +1,1 @@
+import{A as e}from"./AdminLayout.68397104.js";import{o as t,c as a,w as r,a as o}from"./index.a2dd1bc9.js";const m={__name:"InterestReportView",setup(s){return(c,n)=>(t(),a(e,{defaultKey:"9"},{default:r(()=>[o(" Admin - Interest Report ")]),_:1}))}};export{m as default};

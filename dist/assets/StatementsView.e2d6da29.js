@@ -1,0 +1,1 @@
+import{A as t}from"./AdminLayout.e08d68e0.js";import{o as e,c as a,w as o,a as r}from"./index.8ecc24a8.js";const i={__name:"StatementsView",setup(s){return(c,m)=>(e(),a(t,{defaultKey:"8"},{default:o(()=>[r(" Admin - Statements ")]),_:1}))}};export{i as default};

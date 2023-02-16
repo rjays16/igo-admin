@@ -1,0 +1,1 @@
+import{A as e}from"./AdminLayout.e08d68e0.js";import{o as a,c as t,w as o,a as s}from"./index.8ecc24a8.js";const p={__name:"MiscellaneousView",setup(r){return(c,n)=>(a(),t(e,{defaultKey:"10-3",preOpenKey:"10"},{default:o(()=>[s(" Admin - Miscellaneous ")]),_:1}))}};export{p as default};

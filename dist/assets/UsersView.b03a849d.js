@@ -1,0 +1,1 @@
+import{A as e}from"./AdminLayout.e08d68e0.js";import{o as t,c as a,w as r,a as s}from"./index.8ecc24a8.js";const m={__name:"UsersView",setup(o){return(c,n)=>(t(),a(e,{defaultKey:"10-1",preOpenKey:"10"},{default:r(()=>[s(" Admin - Users ")]),_:1}))}};export{m as default};
